@@ -20,11 +20,11 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### ⭐ Recent stars
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 year ago)
 - [catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal) - 🧝‍♂️ Soothing pastel theme for Gnome Terminal (1 year ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (1 year ago)
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support. (1 year ago)
 
 #### 🔨 Latest Pull Requests
 
