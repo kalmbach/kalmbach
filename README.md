@@ -4,10 +4,10 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (5 days ago)
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (5 days ago)
+- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (6 days ago)
+- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (6 days ago)
 - [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (2 weeks ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (3 weeks ago)
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (4 weeks ago)
 - [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches (4 months ago)
 
 #### 🌱 Latest projects
@@ -20,7 +20,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### ⭐ Recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 year ago)
 - [catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal) - 🧝‍♂️ Soothing pastel theme for Gnome Terminal (1 year ago)
