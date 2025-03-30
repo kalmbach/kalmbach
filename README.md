@@ -7,7 +7,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 - [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (1 week ago)
 - [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (1 week ago)
 - [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (2 weeks ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (4 weeks ago)
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (1 month ago)
 - [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches (4 months ago)
 
 #### 🌱 Latest projects
@@ -20,7 +20,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### ⭐ Recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 year ago)
 - [catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal) - 🧝‍♂️ Soothing pastel theme for Gnome Terminal (1 year ago)
