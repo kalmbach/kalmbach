@@ -18,14 +18,6 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 - [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup
 
-#### ⭐ Recent stars
-
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 days ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 year ago)
-- [catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal) - 🧝‍♂️ Soothing pastel theme for Gnome Terminal (1 year ago)
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (1 year ago)
-
 #### 🔨 Latest Pull Requests
 
 - [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (1 month ago)
