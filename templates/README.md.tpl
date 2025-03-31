@@ -12,11 +12,6 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### ⭐ Recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
-
 #### 🔨 Latest Pull Requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
