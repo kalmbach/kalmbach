@@ -21,7 +21,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 #### 🔨 Latest Pull Requests
 
 - [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (1 month ago)
-- [Add biomejs](https://github.com/mfussenegger/nvim-lint/pull/403) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (1 year ago)
+- [Add biomejs](https://github.com/mfussenegger/nvim-lint/pull/403) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Support standardjs](https://github.com/mfussenegger/nvim-lint/pull/400) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Add Deno lint support](https://github.com/mfussenegger/nvim-lint/pull/389) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [dont show previous exchange rate on 404](https://github.com/matfantinel/moneta/pull/62) on [matfantinel/moneta](https://github.com/matfantinel/moneta) (3 years ago)
