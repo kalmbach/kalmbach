@@ -6,7 +6,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 - [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (2 weeks ago)
 - [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (2 weeks ago)
-- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (4 weeks ago)
+- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (1 month ago)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (1 month ago)
 - [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches (5 months ago)
 
