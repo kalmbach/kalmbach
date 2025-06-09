@@ -4,11 +4,11 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (1 month ago)
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (1 month ago)
-- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (1 month ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (1 month ago)
-- [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches (5 months ago)
+- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (2 months ago)
+- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (2 months ago)
+- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (3 months ago)
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (3 months ago)
+- [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches (7 months ago)
 
 #### 🌱 Latest projects
 
@@ -20,7 +20,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🔨 Latest Pull Requests
 
-- [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (2 months ago)
+- [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (4 months ago)
 - [Add biomejs](https://github.com/mfussenegger/nvim-lint/pull/403) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Support standardjs](https://github.com/mfussenegger/nvim-lint/pull/400) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Add Deno lint support](https://github.com/mfussenegger/nvim-lint/pull/389) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
