@@ -19,7 +19,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🔨 Latest Pull Requests
 
-- [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (9 months ago)
+- [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (10 months ago)
 - [Add biomejs](https://github.com/mfussenegger/nvim-lint/pull/403) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Support standardjs](https://github.com/mfussenegger/nvim-lint/pull/400) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Add Deno lint support](https://github.com/mfussenegger/nvim-lint/pull/389) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
