@@ -4,8 +4,8 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (9 months ago)
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (9 months ago)
+- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (10 months ago)
+- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (10 months ago)
 - [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (10 months ago)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (10 months ago)
 
