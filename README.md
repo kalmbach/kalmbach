@@ -4,8 +4,6 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (1 year ago)
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (1 year ago)
 
 #### 🌱 Latest projects
 
