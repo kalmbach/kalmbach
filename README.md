@@ -4,7 +4,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 day ago)
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -16,7 +16,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🔨 Latest Pull Requests
 
-- [Major upgrade, starting point: Ubuntu 25.10](https://github.com/kalmbach/nova/pull/3) on [kalmbach/nova](https://github.com/kalmbach/nova) (3 days ago)
+- [Major upgrade, starting point: Ubuntu 25.10](https://github.com/kalmbach/nova/pull/3) on [kalmbach/nova](https://github.com/kalmbach/nova) (4 days ago)
 - [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (1 year ago)
 - [Add biomejs](https://github.com/mfussenegger/nvim-lint/pull/403) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
 - [Support standardjs](https://github.com/mfussenegger/nvim-lint/pull/400) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
