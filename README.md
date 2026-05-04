@@ -4,7 +4,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/keys](https://github.com/kalmbach/keys) - OpenPGP Keys Manager (6 days ago)
+- [kalmbach/keys](https://github.com/kalmbach/keys) - OpenPGP Keys Manager (1 week ago)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (2 weeks ago)
 
 #### 🌱 Latest projects
