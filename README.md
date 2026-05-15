@@ -5,11 +5,11 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 #### 👷 Currently working on
 
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (3 days ago)
-- [kalmbach/keys](https://github.com/kalmbach/keys) - OpenPGP Keys Manager (3 days ago)
+- [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool. (3 days ago)
 
 #### 🌱 Latest projects
 
-- [kalmbach/keys](https://github.com/kalmbach/keys) - OpenPGP Keys Manager
+- [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool.
 - [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account
 - [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches
 - [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches
