@@ -9,11 +9,11 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🌱 Latest projects
 
+- [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool.
 - [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account
 - [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches
 - [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches
-- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches
 
 #### 🔨 Latest Pull Requests
 
