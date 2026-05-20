@@ -4,16 +4,17 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 day ago)
+- [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (1 day ago)
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool. (2 days ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (2 days ago)
 
 #### 🌱 Latest projects
 
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool.
 - [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches
-- [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup
+- [kalmbach/wikipedia](https://github.com/kalmbach/wikipedia)
 
 #### 🔨 Latest Pull Requests
 
