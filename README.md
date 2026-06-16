@@ -5,7 +5,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 #### 👷 Currently working on
 
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (3 weeks ago)
-- [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (3 weeks ago)
+- [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (4 weeks ago)
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool. (4 weeks ago)
 
 #### 🌱 Latest projects
