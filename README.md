@@ -4,13 +4,14 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
+- [kalmbach/backup](https://github.com/kalmbach/backup) - TUI for backing up your home dir (today)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 month ago)
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (1 month ago)
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool. (1 month ago)
 
 #### 🌱 Latest projects
 
-- [kalmbach/backup](https://github.com/kalmbach/backup) - rsync TUI for backing up your home dir to a USB drive
+- [kalmbach/backup](https://github.com/kalmbach/backup) - TUI for backing up your home dir
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool.
 - [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account
