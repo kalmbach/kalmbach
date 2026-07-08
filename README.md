@@ -4,7 +4,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/bkp](https://github.com/kalmbach/bkp) - TUI for backing up your home dir (today)
+- [kalmbach/bkp](https://github.com/kalmbach/bkp) - TUI for backing up your home dir (1 day ago)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 month ago)
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (1 month ago)
 - [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool. (1 month ago)
