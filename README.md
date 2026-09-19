@@ -4,7 +4,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (3 days ago)
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (4 days ago)
 - [craftzdog/tmux-claude-hatch](https://github.com/craftzdog/tmux-claude-hatch) - tmux plugin that runs Claude Code sessions in popups per project directory, with an fzf picker showing each session&#39;s status and a bell that highlights the window that needs you. (1 month ago)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - TUI for backing up your home dir (1 month ago)
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (4 months ago)
