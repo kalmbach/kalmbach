@@ -12,11 +12,11 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🌱 Latest projects
 
+- [kalmbach/floatty](https://github.com/kalmbach/floatty)
 - [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim)
 - [kalmbach/pixie](https://github.com/kalmbach/pixie)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools
-- [kalmbach/keys](https://github.com/kalmbach/keys) - GPG and SSH Keys maintenance tool.
 
 #### 🔨 Latest Pull Requests
 
