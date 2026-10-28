@@ -4,16 +4,16 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (today)
+- [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split (today)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup (4 days ago)
 - [kalmbach/pixie](https://github.com/kalmbach/pixie) (2 weeks ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (3 weeks ago)
 - [craftzdog/tmux-claude-hatch](https://github.com/craftzdog/tmux-claude-hatch) - tmux plugin that runs Claude Code sessions in popups per project directory, with an fzf picker showing each session&#39;s status and a bell that highlights the window that needs you. (2 months ago)
-- [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools (5 months ago)
 
 #### 🌱 Latest projects
 
 - [kalmbach/floatty](https://github.com/kalmbach/floatty)
-- [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim)
+- [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split
 - [kalmbach/pixie](https://github.com/kalmbach/pixie)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup
 - [kalmbach/nova-cli](https://github.com/kalmbach/nova-cli) - Nova Tools
