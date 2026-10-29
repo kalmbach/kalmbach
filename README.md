@@ -12,7 +12,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🌱 Latest projects
 
-- [kalmbach/floatty](https://github.com/kalmbach/floatty)
+- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim)
 - [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split
 - [kalmbach/pixie](https://github.com/kalmbach/pixie)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup
