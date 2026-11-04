@@ -4,15 +4,15 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 day ago)
+- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim) - a persistent floating terminal (1 day ago)
 - [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split (5 days ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 week ago)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup (1 week ago)
 - [kalmbach/pixie](https://github.com/kalmbach/pixie) (3 weeks ago)
-- [craftzdog/tmux-claude-hatch](https://github.com/craftzdog/tmux-claude-hatch) - tmux plugin that runs Claude Code sessions in popups per project directory, with an fzf picker showing each session&#39;s status and a bell that highlights the window that needs you. (2 months ago)
 
 #### 🌱 Latest projects
 
-- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim)
+- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim) - a persistent floating terminal
 - [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split
 - [kalmbach/pixie](https://github.com/kalmbach/pixie)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup
