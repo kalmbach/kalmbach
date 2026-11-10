@@ -4,8 +4,8 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim) - a persistent floating terminal (5 days ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (6 days ago)
+- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim) - a persistent floating terminal (6 days ago)
+- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 week ago)
 - [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split (1 week ago)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup (2 weeks ago)
 - [kalmbach/pixie](https://github.com/kalmbach/pixie) (3 weeks ago)
