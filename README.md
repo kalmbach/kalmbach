@@ -4,11 +4,11 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup (today)
-- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim) - a persistent floating terminal (6 days ago)
+- [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup (1 day ago)
+- [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split (1 day ago)
+- [kalmbach/floatty.nvim](https://github.com/kalmbach/floatty.nvim) - a persistent floating terminal (1 week ago)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 week ago)
-- [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split (1 week ago)
-- [kalmbach/pixie](https://github.com/kalmbach/pixie) (3 weeks ago)
+- [kalmbach/pixie](https://github.com/kalmbach/pixie) (4 weeks ago)
 
 #### 🌱 Latest projects
 
@@ -20,7 +20,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 🔨 Latest Pull Requests
 
-- [Optimize string concatenation in call to WriteString](https://github.com/kalmbach/bkp/pull/10) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (today)
+- [Optimize string concatenation in call to WriteString](https://github.com/kalmbach/bkp/pull/10) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (1 day ago)
 - [fix readonly dirs and vanished files](https://github.com/kalmbach/bkp/pull/9) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (2 weeks ago)
 - [add readme](https://github.com/kalmbach/bkp/pull/8) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (2 weeks ago)
 - [drop timestamps from logs and duplication in error messages](https://github.com/kalmbach/bkp/pull/7) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (2 weeks ago)
