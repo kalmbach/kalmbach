@@ -4,7 +4,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 #### 👷 Currently working on
 
-- [planetariosh/planetariosh.github.io](https://github.com/planetariosh/planetariosh.github.io) (3 days ago)
+- [planetariosh/planetariosh.github.io](https://github.com/planetariosh/planetariosh.github.io) (4 days ago)
 - [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Ubuntu Setup (1 week ago)
 - [kalmbach/aos.nvim](https://github.com/kalmbach/aos.nvim) - run a coding agent in a persistent terminal split (1 week ago)
 - [kalmbach/bkp](https://github.com/kalmbach/bkp) - concurrent local directory backup (1 week ago)
@@ -22,7 +22,7 @@ I'm Jorge, here you can find a summary of what I've been doing recently.
 
 - [changes to nvim config file](https://github.com/kalmbach/nova/pull/12) on [kalmbach/nova](https://github.com/kalmbach/nova) (1 week ago)
 - [Optimize string concatenation in call to WriteString](https://github.com/kalmbach/bkp/pull/10) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (1 week ago)
-- [fix readonly dirs and vanished files](https://github.com/kalmbach/bkp/pull/9) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (3 weeks ago)
+- [fix readonly dirs and vanished files](https://github.com/kalmbach/bkp/pull/9) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (4 weeks ago)
 - [add readme](https://github.com/kalmbach/bkp/pull/8) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (4 weeks ago)
 - [drop timestamps from logs and duplication in error messages](https://github.com/kalmbach/bkp/pull/7) on [kalmbach/bkp](https://github.com/kalmbach/bkp) (4 weeks ago)
 
