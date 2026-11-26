@@ -1,38 +1,20 @@
-### Hi there 👋
+### Jorge Kalmbach
 
-I'm Jorge, here you can find a summary of what I've been doing recently.
+Terminal tools, Neovim plugins, and Go. Mostly in that order.
 
-#### 👷 Currently working on
+Most of my personal work these days is in Go: TUIs, Neovim/tmux plugins, and a small game engine.
 
-- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account (1 week ago)
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches (1 week ago)
-- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches (2 weeks ago)
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup (1 month ago)
-- [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches (4 months ago)
+You can explore it at [planetario.sh](https://planetario.sh).
 
-#### 🌱 Latest projects
+I'm currently open to work. Ideally a small startup building developer tools in Go.
 
-- [kalmbach/clone](https://github.com/kalmbach/clone) - bash script to clone all the repositories from a github account
-- [kalmbach/branch](https://github.com/kalmbach/branch) - interactive bash script to create git branches
-- [kalmbach/clean](https://github.com/kalmbach/clean) - interactive bash script to remove merged git branches
-- [kalmbach/switch](https://github.com/kalmbach/switch) - interactive bash script to switch git branches
-- [kalmbach/nova](https://github.com/kalmbach/nova) - Opinionated Pop! OS Setup
+Remote from Argentina, UTC-3.
 
-#### ⭐ Recent stars
+### Experience
+- Lead Engineer at Evergiving (2013-present): building and maintaining the fundraising
+platform, across Ruby, TypeScript and Postgres.
+- Freelance Consultant at Zigotto (2013): wrote APIs in Ruby.
+- Freelance Consultant at Smart Sourcing (2012-2013): created MVPs in Ruby on Rails.
+- Developer at OnsiteSoft (2007-2012): built and maintained software for retail energy sales on SQL Server and IIS.
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 days ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 year ago)
-- [catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal) - 🧝‍♂️ Soothing pastel theme for Gnome Terminal (1 year ago)
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (1 year ago)
-
-#### 🔨 Latest Pull Requests
-
-- [Updates Feb 2025](https://github.com/kalmbach/nova/pull/2) on [kalmbach/nova](https://github.com/kalmbach/nova) (1 month ago)
-- [Add biomejs](https://github.com/mfussenegger/nvim-lint/pull/403) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (1 year ago)
-- [Support standardjs](https://github.com/mfussenegger/nvim-lint/pull/400) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (1 year ago)
-- [Add Deno lint support](https://github.com/mfussenegger/nvim-lint/pull/389) on [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) (2 years ago)
-- [dont show previous exchange rate on 404](https://github.com/matfantinel/moneta/pull/62) on [matfantinel/moneta](https://github.com/matfantinel/moneta) (3 years ago)
-
-
-This is a self-generated profile page, want your own? Check the amazing [readme-scribe](https://github.com/muesli/readme-scribe)!
+Say hi: kalmbach at gmail.com
