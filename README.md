@@ -11,8 +11,7 @@ I'm currently open to work. Ideally a small startup building developer tools in 
 Remote from Argentina, UTC-3.
 
 #### Experience
-- Lead Engineer at Evergiving (2013-present): building and maintaining the fundraising
-platform, across Ruby, TypeScript and Postgres.
+- Lead Engineer at Evergiving (2013-present): building and maintaining the fundraising platform, across Ruby, TypeScript and Postgres.
 - Freelance Consultant at Zigotto (2013): wrote APIs in Ruby.
 - Freelance Consultant at Smart Sourcing (2012-2013): created MVPs in Ruby on Rails.
 - Developer at OnsiteSoft (2007-2012): built and maintained software for retail energy sales on SQL Server and IIS.
