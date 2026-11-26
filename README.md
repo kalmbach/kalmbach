@@ -16,4 +16,4 @@ Remote from Argentina, UTC-3.
 - Freelance Consultant at Smart Sourcing (2012-2013): created MVPs in Ruby on Rails.
 - Developer at OnsiteSoft (2007-2012): built and maintained software for retail energy sales on SQL Server and IIS.
 
-Say hi: kalmbach at gmail.com
+Say hi: kalmbach at gmail dot com
